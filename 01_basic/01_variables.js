@@ -3,6 +3,8 @@ let accountEmail = "pashant@gmail.com";
 var accountPassword = "12345";
 accountCity = "Jaipur"
 
+// const accountId = 2; we can change const value of const
+
 console.log(accountId)
 
 accountEmail = "prash@gmail.com"
@@ -12,7 +14,7 @@ accountCity = "Indore"
 
 /*
     Prefer not to use var 
-    because of issue in bloack scope and functional
+    because of issue in block scope and functional
 */
 
 

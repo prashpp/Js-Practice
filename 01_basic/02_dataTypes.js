@@ -4,12 +4,12 @@ alert("Hello") // we are using nodejs , not browser
 
 
 
-// number => 2 topower 53
+// number => 2 to power 53
 // bigInt
 // string = ""
 // boolean => true/false
 // null => standalone value
-// undefined =>
+// undefined => value is not define.
 // symbol 
 
 
